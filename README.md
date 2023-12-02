@@ -1,2 +1,15 @@
-# advent_of_code2023
-Advent of Code 2023 implemented in Rust. I'm new in to this language
+# AdventOfCode2023
+Advent of Code 2023 implemented in Rust.
+
+# For Developpers
+usefull commands to know:
+cargo init
+cargo new <module>
+cargo new <test_name> --lib
+cargo test
+
+to compile run:
+rustc day1.rs
+
+to run:
+./day1.rs

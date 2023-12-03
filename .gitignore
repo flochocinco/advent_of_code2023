@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 **/target
 **/*.lock
+=======
+/target
+>>>>>>> e0d59df9a39e8758187aa2c2242967d2ceb148eb

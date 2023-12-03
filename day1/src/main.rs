@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 use std::{fs, env};
 use std::path::Path;
 
@@ -64,3 +65,8 @@ mod tests {
         assert_eq!(compute_number("input_puzzle.txt".to_owned()), 54159);
     }
 }
+=======
+fn main() {
+    println!("Hello, world!");
+}
+>>>>>>> e0d59df9a39e8758187aa2c2242967d2ceb148eb

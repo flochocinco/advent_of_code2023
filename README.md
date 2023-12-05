@@ -1,5 +1,10 @@
 # AdventOfCode2023
-Advent of Code 2023 implemented in Rust.
+Advent of Code 2023 implemented in Rust. Learning this language
+
+# Advancement
+| Day |                        Stars                         |
+|-----|:----------------------------------------------------:|
+| 1   |                     :star::star:                     |
 
 # For Developpers
 usefull commands to know:
